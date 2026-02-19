@@ -1,4 +1,7 @@
 <div align="center">
+![Media](https://github.com/user-attachments/assets/9704a7b4-69b2-4fc3-baae-d9c749e9b479)
+![Media (1)](https://github.com/user-attachments/assets/4cec8b83-f057-4e41-8909-f11815f9d082)
+![Media (2)](https://github.com/user-attachments/assets/92c652f6-f3df-4b01-bcb5-31c78a735613)
 
 # ⚡ KomposeKit
 
