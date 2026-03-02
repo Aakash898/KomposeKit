@@ -4,8 +4,7 @@
 
 ### The Android Compose UI component library that doesn't suck.
 
-![image alt](https://github.com/Aakash898/KomposeKit/blob/main/tmp_483ee618-27a9-4211-999e-c2ea8b703d50.jpeg?raw=true)
-![image alt](https://github.com/Aakash898/KomposeKit/blob/85f47458c58db089e27ca30cce3aa7e535978377/tmp_a37dd5c8-aa07-4b4d-97f9-8d65d9239584.jpeg)
+![image alt](https://github.com/Aakash898/KomposeKit/blob/main/tmp_483ee618-27a9-4211-999e-c2ea8b703d50.jpeg?raw=true) ![image alt](https://github.com/Aakash898/KomposeKit/blob/85f47458c58db089e27ca30cce3aa7e535978377/tmp_a37dd5c8-aa07-4b4d-97f9-8d65d9239584.jpeg)
 <br/>
 
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.6+-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
