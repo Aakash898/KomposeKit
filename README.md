@@ -1,12 +1,11 @@
 <div align="center">
-![Media](https://github.com/user-attachments/assets/9704a7b4-69b2-4fc3-baae-d9c749e9b479)
-![Media (1)](https://github.com/user-attachments/assets/4cec8b83-f057-4e41-8909-f11815f9d082)
-![Media (2)](https://github.com/user-attachments/assets/92c652f6-f3df-4b01-bcb5-31c78a735613)
-
+    
 # ⚡ KomposeKit
 
 ### The Android Compose UI component library that doesn't suck.
 
+![image alt](https://github.com/Aakash898/KomposeKit/blob/main/tmp_483ee618-27a9-4211-999e-c2ea8b703d50.jpeg?raw=true)
+![image alt](https://github.com/Aakash898/KomposeKit/blob/85f47458c58db089e27ca30cce3aa7e535978377/tmp_a37dd5c8-aa07-4b4d-97f9-8d65d9239584.jpeg)
 <br/>
 
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.6+-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
